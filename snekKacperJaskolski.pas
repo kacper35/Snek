@@ -239,4 +239,4 @@ begin
         Writeln('  Your score: ', len-1);
         writeln('+---------------+');
     end;
-end.
+end.     
