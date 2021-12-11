@@ -234,7 +234,9 @@ begin
         nosound;
         textbackground(black);
         textcolor(white);
-        Writeln('GAME OVER');
-        Writeln('Your score: ',len-1);
+        writeln('+---------------+');
+        Writeln('  ~ GAME OVER ~');
+        Writeln('  Your score: ', len-1);
+        writeln('+---------------+');
     end;
 end.     
