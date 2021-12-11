@@ -1,4 +1,8 @@
 Simple pascal snake clone, Made for Windows.
+
+## Video
+[![PSnake](http://img.youtube.com/vi/OUlWBFcBwEM/0.jpg)](http://www.youtube.com/watch?v=OUlWBFcBwEM "PSnake")
+
 ## Command I used for compilation:
 
 > fpc snekKacperJaskolski.pas

@@ -185,7 +185,7 @@ begin
             move;
         timer:=timer+1;
             move;
-        if timer = 15000 then begin
+        if timer = 10000 then begin
             move;
             textbackground(black);
             move;
@@ -234,7 +234,9 @@ begin
         nosound;
         textbackground(black);
         textcolor(white);
-        Writeln('GAME OVER');
-        Writeln('Your score: ',len-1);
+        writeln('+---------------+');
+        Writeln('  ~ GAME OVER ~');
+        Writeln('  Your score: ', len-1);
+        writeln('+---------------+');
     end;
-end.     
+end.
