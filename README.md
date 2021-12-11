@@ -5,9 +5,9 @@ Simple pascal snake clone, Made for Windows.
 
 ## Controls
 
-> ``` * Arrow Keys ```
->``` * Better expirience while holding arrow keys for a while, becaouse **Pacal Diff** ```
->``` * Hold escape to exit ```
+> ``` Arrow Keys ```
+> ``` Better expirience while holding arrow keys for a while, becaouse **Pacal Diff** ```
+> ``` Hold escape to exit ```
 
 ## How to change speed
 
@@ -15,4 +15,4 @@ Simple pascal snake clone, Made for Windows.
 
 ## To Do List
 
-> ``` * Show it to mr.Kozlovski ```
+> ``` Show it to mr.Kozlovski ```
